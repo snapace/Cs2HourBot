@@ -110,7 +110,7 @@ This info is saved to `config.json`.
 
 ## **🔧 Discord Bot Setup**
 
-1. Open the **Discord Developer Portal**
+1. Open the [Discord Developer Portal](https://discord.com/developers/docs/intro)
 2. Create a new application
 3. Add a bot to it
 4. Copy the bot token
