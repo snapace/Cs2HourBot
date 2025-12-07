@@ -47,7 +47,7 @@ A Discord bot that helps you run CS2 more reliably by watching for crashes, rest
 Clone the project:
 
 ```sh
-git clone https://github.com/yourusername/Cs2HourBot.git
+git clone https://github.com/snapace/Cs2HourBot.git
 cd Cs2HourBot
 ```
 
